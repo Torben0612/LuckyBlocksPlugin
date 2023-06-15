@@ -1,0 +1,4 @@
+name: LuckeyBlocks
+version: '${project.version}'
+main: me.torben.luckeyblocks.LuckeyBlocks
+api-version: 1.20
