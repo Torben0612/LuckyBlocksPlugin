@@ -1,4 +1,4 @@
-package me.torben.luckeyblocks.items.loot;
+package me.torben.luckyblocks.items.loot;
 
 import org.bukkit.Color;
 import org.bukkit.Material;
@@ -15,7 +15,6 @@ import org.bukkit.potion.PotionEffectType;
 import org.bukkit.potion.PotionType;
 
 public class LuckyPotion implements CommandExecutor {
-
 
     @Override
     public boolean onCommand(CommandSender commandSender, Command command, String s, String[] strings) {

@@ -1,4 +1,4 @@
-package me.torben.luckyblocks.items;
+package me.torben.luckyblocks.utils;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;
@@ -9,6 +9,7 @@ import org.bukkit.inventory.ItemStack;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 public class LootTableTest implements Listener {
 
